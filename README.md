@@ -6,7 +6,7 @@
 
 ## OPERATIONS
 
-![calculator board](https://github.com/ksyaren/Calculator_py/blob/main/images/operation.png)
+![calculator board](https://github.com/ksyaren/Calculator_py/blob/main/images/operations.png)
 
 
 ## RESULT
